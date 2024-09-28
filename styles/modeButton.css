@@ -1,0 +1,21 @@
+
+body.light,
+body.light #container,
+body.light html,
+body.light .issue-list-group-item {
+    background-color: antiquewhite;
+    color: #000000;
+}
+
+body.dark,
+body.dark #container,
+body.dark html,
+body.dark .issue-list-group-item {
+    background-color: #222222;
+    color: #ffffff;
+}
+
+body.light a{
+    color: #000000;
+}
+
